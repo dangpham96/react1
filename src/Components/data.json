@@ -1,0 +1,32 @@
+[
+  {
+    "id":1,
+    "name": "Nguyen A",
+    "tel": "0964854785",
+    "permission": 1
+  },
+  {
+    "id":2,
+    "name": "Nguyen B",
+    "tel": "0964854784",
+    "permission": 1
+  },
+  {
+    "id":6,
+    "name": "Nguyen V",
+    "tel": "0964854765",
+    "permission": 2
+  },
+  {
+    "id":4,
+    "name": "Nguyen D",
+    "tel": "0964854754",
+    "permission": 2
+  },
+  {
+    "id":5,
+    "name": "Tran E",
+    "tel": "0964854645",
+    "permission": 2
+  }
+]
